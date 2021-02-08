@@ -11,6 +11,7 @@ permalink:           pretty
 author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
+  baseurl:           '/lanyon/ '
   email:             markdotto@gmail.com
 
 # Gems
